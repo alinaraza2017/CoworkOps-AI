@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# SQLite databases
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Kiro environment artifacts
+.kiro*
+kiro~1/
